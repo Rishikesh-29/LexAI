@@ -1,0 +1,16 @@
+backend/.env
+backend/venv/
+backend/uploads/*
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/generated_reports/*
+backend/temp/*
+frontend/node_modules/
+frontend/dist/
+.env
+/app/
+/app/
+/app/
+backend/package-lock.json
+frontend/.env.production
